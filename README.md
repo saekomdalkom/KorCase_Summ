@@ -3,12 +3,6 @@ Korean legal case dataset for abstractive summarization task.
 <br/>
 <br/>
 <br/>
-If you check the raw file it can be seen it's not well arranged. <br/>
-For better use, we recommend you to use pandas.read_csv() method. <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 # License
 Anyone can use this dataset for profitable/non-profitable use. <br/>
